@@ -1,3 +1,3 @@
 This Repo contains 4 branches
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+![Data visual](RCB_Batsman_analysis/VariableDistribution-1.png)
